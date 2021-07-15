@@ -1,0 +1,40 @@
+#cat p{
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 65%;
+}
+
+
+#childern button{
+    font-size: 12px;
+    width: 100px;
+}
+
+#childern p{
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#uae button{
+    font-size: 12px;
+    width: 100px;
+}
+
+#uae p{
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#classic button{
+    font-size: 12px;
+    width: 100px;
+}
+
+#classic p{
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+}
